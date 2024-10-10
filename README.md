@@ -64,3 +64,5 @@ YOU WON!
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
+Feel free to modify it according to your needs! Let me know if you'd like any changes or additions.
+```
